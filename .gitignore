@@ -44,3 +44,6 @@ Thumbs.db
 # always-ignore directories
 /dist/
 /build/
+
+# environments
+*env
